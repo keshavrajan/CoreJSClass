@@ -1,0 +1,2 @@
+# CoreJSClass
+Core JavaScript Class
